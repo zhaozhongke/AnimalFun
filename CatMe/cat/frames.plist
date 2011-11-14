@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>frame0</key>
+		<string>Original</string>
+		<key>frame1</key>
+		<string>Distinct</string>
+		<key>frame10</key>
+		<string>Sepia</string>
+		<key>frame11</key>
+		<string>Love</string>
+		<key>frame12</key>
+		<string>Dawn</string>
+		<key>frame13</key>
+		<string>Cool</string>
+		<key>frame14</key>
+		<string>Rose</string>
+		<key>frame15</key>
+		<string>Timber</string>
+		<key>frame16</key>
+		<string>Maple</string>
+		<key>frame17</key>
+		<string>Vibrance</string>
+		<key>frame18</key>
+		<string>Focal</string>
+		<key>frame19</key>
+		<string>Aqua</string>
+		<key>frame2</key>
+		<string>B&amp;W</string>
+		<key>frame20</key>
+		<string>Story</string>
+		<key>frame21</key>
+		<string>Animals</string>
+		<key>frame22</key>
+		<string>Striking</string>
+		<key>frame23</key>
+		<string>Accented</string>
+		<key>frame24</key>
+		<string>Gritty</string>
+		<key>frame25</key>
+		<string>Winter</string>
+		<key>frame3</key>
+		<string>Saturate</string>
+		<key>frame4</key>
+		<string>Color</string>
+		<key>frame5</key>
+		<string>Lomo!</string>
+		<key>frame6</key>
+		<string>Lomo-A</string>
+		<key>frame7</key>
+		<string>Lomo-B</string>
+		<key>frame8</key>
+		<string>Polaroid</string>
+		<key>frame9</key>
+		<string>Negatives</string>
+	</dict>
+</array>
+</plist>
